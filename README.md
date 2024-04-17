@@ -12,6 +12,11 @@ This is an Android application that allows users to check the weather conditions
 ![image](https://github.com/flash871/Wheather-App/assets/142302503/bf9d44e3-4369-4a53-92e0-f4272f7d5cc2)
 ![image](https://github.com/flash871/Wheather-App/assets/142302503/0e57e729-e5e7-4aed-8e22-fbc8c110582a)
 
+## Instaliation
+To install this application you need auth adnd get api key on weatherapi.com 
+Then you need to exhange key on yourself in WeahterViewModel.kt file 
+This variable seems like this: 'const val API_KEY ="3946154..."'
+
 
 
 
