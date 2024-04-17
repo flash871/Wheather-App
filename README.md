@@ -18,6 +18,9 @@ Then you need to exhange key on yourself in WeahterViewModel.kt file
 This variable seems like this: 
 **const val API_KEY ="3946154..."**
 
+## Credits
+The app uses the https://www.weatherapi.com/docs/ to get the latest weather data.
+
 
 
 
