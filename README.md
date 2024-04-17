@@ -15,7 +15,9 @@ This is an Android application that allows users to check the weather conditions
 ## Instaliation
 To install this application you need auth adnd get api key on weatherapi.com 
 Then you need to exhange key on yourself in WeahterViewModel.kt file 
-This variable seems like this: '''const val API_KEY ="3946154..."'''
+This variable seems like this: ''' kotlin
+const val API_KEY ="3946154..."
+'''
 
 
 
