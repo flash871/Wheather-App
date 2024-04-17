@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cornerMainImage">20dp</dimen>
+    <dimen name="small_padding">10dp</dimen>
+    <dimen name="medium_padding">15dp</dimen>
+    <dimen name="iconSearch_padding">6dp</dimen>
+    <dimen name="feels_like_padding">25dp</dimen>
+    <dimen name="large_padding">20dp</dimen>
+</resources>

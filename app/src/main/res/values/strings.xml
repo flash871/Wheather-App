@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="today">Today\n</string>
+    <string name="tomorrow">Tomorrow\n</string>
+    <string name="ten_days">10 days\n</string>
+    <string name="search">Город\n</string>
+    <string name="update">Обновить\n</string>
+    <string name="error">Ошибка</string>
+    <string name="IOError">Проблемы с интернет соединением</string>
+</resources>
