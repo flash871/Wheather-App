@@ -8,6 +8,6 @@ This is an Android application that allows users to check the weather conditions
 
 ## Screenshots
 Here are screenshots of the Weather App in action:
-![image](https://github.com/flash871/Wheather-App/assets/142302503/ff901d30-d378-449f-a723-4473ef536608) ![image](https://github.com/flash871/Wheather-App/assets/142302503/0485abd4-335c-47ea-aef1-1e19c08d0eef)
+![image](https://github.com/flash871/Wheather-App/assets/142302503/ff901d30-d378-449f-a723-4473ef536608)            ![image](https://github.com/flash871/Wheather-App/assets/142302503/0485abd4-335c-47ea-aef1-1e19c08d0eef)
 
 
