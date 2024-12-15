@@ -6,9 +6,7 @@ This is an Android application that allows users to check the weather conditions
 + Users can view 3 days forecast
 + Users can choose Country for wathcing forecast
 
-## Screenshots
-
-![Image alt](https://github.com/flash871/Wheather-App/blob/master/1%20скрин.png
+![Screenshot](https://github.com/flash871/Wheather-App/blob/master/1%20скрин.png)
 
 ## Instaliation
 To install this application you need auth adnd get api key on weatherapi.com 
