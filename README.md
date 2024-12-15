@@ -8,7 +8,7 @@ This is an Android application that allows users to check the weather conditions
 
 ## Screenshots
 
-
+![Image alt](https://github.com/flash871/Wheather-App/blob/master/1%20скрин.png
 
 ## Instaliation
 To install this application you need auth adnd get api key on weatherapi.com 
